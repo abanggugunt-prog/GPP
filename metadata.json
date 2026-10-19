@@ -1,0 +1,6 @@
+{
+  "name": "HITUT AI",
+  "description": "Aplikasi AI pribadi multifungsi: AI Chat cerdas, AI Generator Gambar, AI Generator Video, serta Sistem Backend Cadangan otomatis berbiaya Rp0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
